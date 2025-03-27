@@ -1,7 +1,7 @@
 ### Ola! Eu sou o Lucas Mendes
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-mendes-a791a9353/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/in/lucas-mendes-a791a9353?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas.mendess.37?igsh=anhrYTgzY2c5NmNp)
 
 
 ### Cursando Analise e desenvolvimento de sistemas 
