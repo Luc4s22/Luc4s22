@@ -13,3 +13,5 @@
 
 
  <H4> Um ser humano deve transformar informação em inteligência ou conhecimento.</H4>
+
+![background](https://via.placeholder.com/1200x400/0000FF/FFFFFF?text=Meu+Perfil)
