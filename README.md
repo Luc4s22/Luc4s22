@@ -15,3 +15,10 @@
  <H4> Um ser humano deve transformar informação em inteligência ou conhecimento.</H4>
 
 ![background](https://via.placeholder.com/1200x400/0000FF/FFFFFF?text=Meu+Perfil)
+
+
+body {
+    background-color: #f0f0f0; /* Cor de fundo cinza claro */
+}
+
+<link rel="stylesheet" href="styles.css">
