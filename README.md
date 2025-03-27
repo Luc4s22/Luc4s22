@@ -12,4 +12,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucas9499&show_icons=true&locale=en" alt="lucas9499" /></p>
 
 
-####  Um ser humano deve transformar informação em inteligência ou conhecimento.
+ <H4> Um ser humano deve transformar informação em inteligência ou conhecimento.</H4>
