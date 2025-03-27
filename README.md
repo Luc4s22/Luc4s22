@@ -15,3 +15,11 @@
  <H4> Um ser humano deve transformar informação em inteligência ou conhecimento.</H4>
 
 
+### 🔧 Habilidades
+- 📊 **Excel Intermediário** (Tabelas dinâmicas, fórmulas, automação básica)
+- 🌐 **HTML & CSS** (Estruturação e estilização de páginas web)
+
+
+
+
+
